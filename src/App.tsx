@@ -86,6 +86,10 @@ export default function App() {
                   <PlusCircle className="w-5 h-5 text-white" />
                 </div>
               </div>
+              <div>
+                <h1 className="text-xl font-bold text-islamic-green leading-tight">আলোর অভিসারী ফাউন্ডেশন</h1>
+                <p className="text-xs text-slate-500 font-medium">আলো ছড়াই জীবন গড়ি</p>
+              </div>
             </div>
             {/* Desktop Nav */}
             <nav className="hidden md:flex items-center gap-8">
